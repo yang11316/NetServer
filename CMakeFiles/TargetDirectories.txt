@@ -1,0 +1,3 @@
+/home/yyt/mycode/Reactor/CMakeFiles/rebuild_cache.dir
+/home/yyt/mycode/Reactor/CMakeFiles/edit_cache.dir
+/home/yyt/mycode/Reactor/CMakeFiles/ReactorServer.dir
